@@ -62,3 +62,6 @@ You can get more parameter details in model.py. Our model depends on pytorch-lig
 run train.py
 or python train.py --gpu_lst=[1] or not setting
 ```
+
+### Cite our paper 
+Xigang Suna, Jingya Zhoua,∗, Ling Liub and Zhen Wu, CasTformer: A Novel Cascade Transformer Towards Predicting Information Diffusion, 2023.
