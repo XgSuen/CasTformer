@@ -22,7 +22,7 @@ pip install pytorch-lightning
 ### File tree
 
 ```python
--CTformer
+-CasTformer
     -dataset    # storing datasets
         -weibo_
         -aps_
@@ -31,7 +31,7 @@ pip install pytorch-lightning
         -datamodule.py
         -gen_cascade.py
         -gen_dataset.py
-    -model.py   # CTformer and parameters
+    -model.py   # CaTformer and parameters
     -train.py   # training
 ```
 
