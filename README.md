@@ -64,4 +64,4 @@ or python train.py --gpu_lst=[1] or not setting
 ```
 
 ### Cite our paper 
-Xigang Suna, Jingya Zhoua, Ling Liu and Zhen Wu, CasTformer: A Novel Cascade Transformer Towards Predicting Information Diffusion, 2023.
+Xigang Sun, Jingya Zhou, Ling Liu and Zhen Wu, CasTformer: A Novel Cascade Transformer Towards Predicting Information Diffusion, 2023.
